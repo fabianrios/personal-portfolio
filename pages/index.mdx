@@ -4,9 +4,18 @@ title: About
 date: 2022-08-02
 ---
 
+
+export const KidsYears = ({year}) => {
+  const now = new Date().getFullYear();
+  const birth = new Date(year).getFullYear();
+  return now - birth || null
+}
+
 # Fabián Ríos
 
-Hey, I'm a Media Artist and Senior Web Developer. I graduated as a Media Artist and I got involved in web development from design to coding and crafting elegant user center websites and applications for about 8 years now.
+Hey, I'm a Media Artist and Senior Web Developer. I graduated as a Media Artist and I got involved in web development from design to coding and crafting elegant user center websites and applications for about <KidsYears year="'01-01-2013'" /> years now.
+
+I live with my beautiful wife [Cristina](https://www.instagram.com/crisescobarderios/), my children Samuel (<KidsYears year="'11-17-2013'" /> years) - Gabriel (<KidsYears year="'06-09-2015'" /> years), Simon (<KidsYears year="'10-17-2019'" />  years) and my dog Jet in Düsseldorf, Germany
 
 ---
 
