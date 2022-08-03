@@ -1,99 +1,15 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
-author: You
+title: Tech sociology - a German note.
+date: 2016/8/2
+description: a text about everyday devices in a new country.
+tag: tech
+author: Me
 ---
 
-# Markdown Examples
+Today Germany doesn’t have an extended internet connection in the whole territory, internet data is very expensive, 4G lte is starting to appear, public wifi isn’t something you can count on and not everybody has a smartphone but I’m pretty sure in a couple of years the access and prices will be oversimplify and for better or worse most german will have easy access to internet mobile data and smartphones.
 
-## h2 Heading
+![reuters](https://miro.medium.com/max/630/1*F2wmxlRVBZ5G9k5NHuL75Q.jpeg)
 
-### h3 Heading
+I’ve been lately making a lot of sociological observations pointing out that issue since I arrived to Germany many experiences feel a lot of different due to this hardware digression, if you step in public transportation for example, people doesn’t use their phones that much compared to the same demographics persons in other places, of course they are people listen to music and writing messages but it doesn’t feels as compelling to do it that in places with a more expanded wireless connections, I’ll try my best to describe both situations; taking a bus in Bogotá, Sao paulo or Buenos aires is like walking to a very alive community of people having loud conversations writing to someone every second you can even see them making faces, a lot of faces supporting a wide variety of human emotions through full conversations, even a couple of days ago I got a call from someone which was in a Bus in Bogotá and the noise that I haven’t hear in over two months was very stressful is a lot of information coming to you at the same time from random people, anyhow by all means dear reader don’t think I’m the kind of guy that think we’ll be doing better with out technology, that is not true, I do think that is better to reach the people you care the most using your phone that start a random conversation on the bus and by the way you can have both if you want, I usually do and is very stimulating in Germany because nobody expect to be approach for a random person, anyway after clarify my perspective let’s move on to the main subject, having cheap access to internet or phone calls create huge behavioural differences in Germany, the vast majority of people can’t afford to use their phone all the time, you can realice that also when they are driving. A lot of people in Germany still uses a GPS to go from point A to point B, I haven’t see those in a couple of years, because with cheap data everyone can use waze or google maps or whatever phone app they want to accomplish the same goal and you don’t need another device to do that of course in order to accomplish that it relays in a lot of internet data to do it, having a 1G plan a month in Germany is expensive while in this developed countries main cities like Ciudad de Mexico, Medellin, Bogotá, Sao paulo, Quito you can have 5G plus 400 min. for average 20€ a month and in United states for 99$USD you got unlimited minutes and data.
 
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Emphasis
-
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
+There are market variables that play a huge role in this technology diversification. A few years ago I got a very unpleasant conceptual and noisy experience. The best user centred design product should rule the market isn’t it? well not always, an even the worst craft created for human beings can flood the market let’s take tree different cellphone models of course there is plenty more of them but i’ll use 3 to make this conversation shorter Android, iPhone and Blackberry if we create fast user profiles around those 3 products the first one is not always stylish, you can have very cheap and very expensive phones using android so average Joe can have one. The user interface is good enough you are in complete control of the storage memory and a touch screen will make your life easier to go around, iPhones of course are more expensive, when you buy one you’re actually renting one because the storage disk doesn’t belong to you which is an issue that can create another different conversation buy let’s stay in track they have the more intuitive user interface and both the iPhone and Android are created for the vast majority of audiences on the other hand BlackBerry devices where created for a very specific audience mostly company CEO’s or people which need a high secure profile around them every message that was created with a Blackberry was encrypted in Canada before reaching their destinatary that was the main tech promise, the user interface was usually very difficult to go around and the tiny keyboard didn’t make it simple to write a message never the less by 2010 cellphone companies were advertising Blackberries a lot I guess they Company itself invested a lot of money in this and they were mostly cheap compare to the Alternatives at the time iPhone was expensive android was rather new 2.1 version with glitches and their weren’t doing as much advertising as their competence, by the way I’m talking about Colombia I wasn’t travelling in that time so I don’t know how it was in the rest of the world, so as a result Blackberries where everywhere the young people saw it as a possibility of have it’s first smartphone so a complete list of people which wasn’t intended in the object audience user experience started to use it and then you cannot enter anywhere in this 9 Millions people city where I was living without hearing this unpleasant noises produce for this device external miniature keyboard, for me under the design perspective I couldn’t imagine a worst cellphone that one with it’s one miniature keyboard if you take any blackberry from that time and look at it under a complete design perspective there are so many things wrong in the user experience and users interface design approach that I’ll not know where to start is so inappropriate that it just create a very visceral reaction in me. Time has giving me the reason and of course the lack of app distribution was in detriment of the whole blackberry world itself, as far as I know Blackberry is no longer a handset business focus company and they stop the release of OS after Blackberry 10.
