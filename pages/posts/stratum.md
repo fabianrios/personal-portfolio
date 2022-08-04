@@ -1,8 +1,8 @@
 ---
-title: Cibusstratum an *aesthetic approach to social stratification through our eating habits*
+title: Cibusstratum
 date: 2019/11/10
-description: A reflection into Contemporary cultural and social segregation, immerse into a social media cultural pattern (#foodies)
-tag: tech, foodie, dataviz
+description: aesthetic approach to social stratification through our eating habits
+tag: tech, foodies, dataviz, food
 author: You
 ---
 
@@ -26,7 +26,7 @@ I Aim to review Lev Manovich project Inequaligram[][#inequaligram] which makes a
 
 Every experiment we choose to do will be documented, and I'll use the selected ones to debug into the general plan of find new ways to spot segregated patterns. 
 
-![thumb](https://previews.dropbox.com/p/thumb/ABn2saS8nOMcSLLqalVXgo3lZrSoUdN9N3O3RMtnH-tHcR-tj1ZGY2X9VJmk-V1TpSSdkv82sOC9JCoZ2kcacrdMer4Uai3lP-O1HCaAt5B81IdBX0gPDBPmNTFmZm1J9sqcB6DvXjTODfd1EIDw1l7xWq59xiYflBr8PbcqRqcspSby7yDTgCh4v7WbM0WFxHlEJ8RBsWOVnfabfW5vyk8HpkPPNUFt9oL_MqFI70euWPka8p_yxv5IP4GxtLqxHkmj8n7neRMiPWtQg1m5VntjAsVM9hsUSRSwPYUQ6fg8dCia7vvPz3TrvVf04vIRmCNMmZFGVk6s-hvFFxhMOAeWHqiCzIU3q_eKC1KYJLvXDGfdF-SCyIzh40EJCQFf4h8/p.jpeg)
+![stratum1](/images/stratum1.jpeg)
 
 Manovich project[][#inequaligram] is based on cities as a whole every Instagram pic his team used as part of the data collection doesn't have any distinction besides geoposition and a division between tourists and city residents, The idea is to review and overlay his visualisation and his own social commentary using an extra layer to create social stratification using programming skills for this I can imagine 3 possible paths to follow:
 
@@ -39,7 +39,7 @@ Manovich project[][#inequaligram] is based on cities as a whole every Instagram 
 
 Similar projects to the one I propose is the *MIT Visualizing patterns of segregation project*[][#mit] which is part of the MIT Media lab Human dynamics team this is their statement:
 
-![segregation](https://previews.dropbox.com/p/thumb/ABmopY14ryZhsZzUK-ZUcy3-LvZPm52uv1TCG_93WHekvUqAB6u0VV7sQDkdeOhNhrcdRN5Wnng8S51iLBMQUsj5uYQCvAnfCp4KUP9OK7RGxFw_pt508VCB3nUURnICrHY3ptZ7yOYDT5sWHasUpLGs7Nuflu9ztZzkO70vab3gMXEQw3Q_T4viOjkWqXxsJ-N8K72AsyCA6AoVw7bfn4v3bF01LmYqXWXkCh8F9FpL0VxrE2yTJJ_szzQ1MZBqEMdhr5S8fDDCaKeTEpowQ1djjBjLy3geVnBT4R8oa9gUdRjVA89618n2s1rYQtQrlehChRtJVZr03RvtYyqllqGHgYv2EOQFfGMXkdh3KowxA7IpUdzQwjeoXSmhIjV4hv4/p.jpeg)
+![segregation](/images/stratum2.jpeg)
 
 “Segregation, or income inequality, is one of the major problems of our society. Residential segregation has long been of research interest in fields such as sociology, economics, and psychology. But our behaviours are also segregated. In this project we want to visualize how human behaviours—like conversations in Twitter, mobility around the cities, or purchasing—show patterns of segregation. Our objective is to allow people to understand the segregation of behaviours in their cities to increase the awareness of that problem, but also to show how we can address potential solutions by using different layers of big datasets.”[][#mit]
 
@@ -48,7 +48,7 @@ How can we address the possibility to visualize segregated human behaviour? is m
 
 One important key of the approach to an inequality map is public space, it contains a layer of invisible barriers we navigate every day with out paying to much attention, for example which street we are able to leave our car outside and which one we can´t, or which type of light we use. 
  
-![alexanderplatz](https://previews.dropbox.com/p/thumb/ABnVuUhpnwgvCgpEzoXibpCu3xrbSm54Mv530D_RybR3E7LiQjgFTd1lOze20b576BHwDovU8o_7-HVl_pDBrm1gpAmLon0RABkn1nGQnzqHsz96qq-HMfaArZVjRWatlE5oVd_0pR6cmR6DbMfwDfIn2dzSbzBzjzhSJqyRxIwknKKzZfbwVmv-r1_J8Kj_KPMMJOGx6mnuxOZFCbzxZv34W5Qam6czIChqpMnHmvCyluYaTbf1uoIRps8LLwQQuE2Cpw_tL5RZR2qr8DEaChn9CVxEEgHbY9s1Ttb_MilhUW0BGFt0Di8S_dwoZlxxKH2o61PMpleJXb_SJlI8t0s_1Sz7vPOTQfX0ZNxZlA-wgJMEF9LV7Bfj5WR1qxSQ9vw/p.jpeg)
+![alexanderplatz](/images/berlin.jpeg)
 
 "In 2013, astronaut Chris Hadfield took a photo of the city from the 200 mile-high vantage point of International Space Station, and something immediately stuck out. To the west, the lights are white; to the east, they’re yellow. The boundary is a sharp, clear line, mirroring where the wall once stood. Hadfield tweeted the photo with the comment" [^3]
 

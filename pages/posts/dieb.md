@@ -2,11 +2,11 @@
 title: Dieb
 date: 2017/3/18
 description: A project around diabetes devices
-tag: tech, health, diabetes, apps, insulin, development
+tag: tech, health, diabetes, apps, insulin, development, food
 author: You
 ---
 
-![dieb](https://previews.dropbox.com/p/thumb/ABnvxU8xU747-IW16W6f7H9J6Vc0TyJtZlP-ROzIRczThfaBkZYFXtcHytsAV0dLZoAx9ZHd_Mgp11SMGc7RqvSq5uIkg640l58UoKLN3hFr3hAcTKMWxy1fiJ-ogOVa6d2_FXVEmQ_8hz2iTBBPkDQ0CcIVIVaop8JnGKIikdXddWm3QSrrKSQsNgLflk1nWnivlZ8r-FHonuxju1nEBLJHYZYmjT37BO1ARa8iruWWlc8nujMCTDgzMin1rEjNI2K6kJeWpAj-lbi34R7X-bTgJNwMymG1AZwILTcjMR_y_6rO-rFKDj6KawhFlDkB9VTfBQLPXZfswk0udl6U5k1mnWxpVoXaX8G32rhe5WrgETjPZwJ664mdBRMRPgulH1c/p.png)
+![dieb](/images/pantallazoarduinos.jpg)
 
 ### Introduction
 
@@ -29,7 +29,7 @@ Type 2 diabetes occurs when the body can’t properly use the insulin that is re
 
 ### Experience
 
-![experience](https://previews.dropbox.com/p/thumb/ABkUNfMzQ-vC7lDwyeBTPlMYiF1yAFJPjgUsJYQInSvcvDf4PwvIKKXqh0HJxdCMoAf9GdZmlPZVbWZMLEYYeH4InpFnkoCt7NbVPLiLWSNTnjVNwIiOxviQR68Y7PznX4adYZMsAB3E1nyTekSmBs62yYC_tBZtMz-7-G56hkeoq2FZopjQPCAa2_S_rLxB_qhPgIITgfTWt0b1I5ZN4xEBQ5Ahr3t3BS2Fw83hMdEinYCl0TTE6-fRjLVPOKf-ZFXCwSK-NSeaOImr07pjzlGuVAKeqZTiYMGnSj2o72ngpXmaXiJBMLxw5_Qz370FMq9Ro9xVT5N776_OJYXw-gqQgAyi72zqIGSalyPSrJHf8kE8gMAMaeX6NucFhonMSfc/p.png)
+![experience](/images/problemdieb.png)
 
 Observation is a very handy and often underestimated process outside scientific and arts disciplines by living with this family I was able to learn some patterns and necessities I wouldn’t have be able to notice any other way so directly, at this point besides of underling the problems to solve also the more specific aspects of the app where born like the necessity of doing something not only will solve the problem but also will teach the person how to do it by himself when he needs to.
 
@@ -40,7 +40,7 @@ There is a enough information about the history of repetition in our cognitive w
 
 ### Design
 
-![design](https://previews.dropbox.com/p/thumb/ABl0jNaGW9ECsIZxSEz23ZTpeCvrgFYGWQnoYDxRLRivJvt1-ZukFxS8NYzqf8Av6ZckKxdUcZFxDpc3r1nf2vWItS7FIefgxQEfAxVz0jbbwEGo-8q0uoFID3yaN6zrlMTJm70hBsjEmbnfvjHQiHbG8SyoqK3D568-7e45o-4j7NfQmT3gmsbT-wrzHt0Brfal1fHeM2S7ySNdquIITqVNUh0MnDB2EX8dW9N3NeyAATRHxRdI8dnImd_qPvrmlEFMcx_9FZr_5oSKB12aUN-eeEXnV3qbaVILNX6-kFUWWwIXOpjbV8guOfJbFfXXogfEOm_4sPZmYBlXc26gje1D1-VO6GWpw83JIFlvjALpKDsRehTVqFTknPKR4PSCiMg/p.jpeg)
+![design](/images/pantallazo.jpg)
 
 I started with a series of wireframes trying to imagine how to represent the numbers involved in the diabetic equation as easy and painless as possible. Working in design associated with user time need to accomplish a task I think is a good approach to most commercial apps as long as you keep the user in the center of the equation. I experimented with sliders because then there is no need to write at all, it all solves to a movement that we’re very accustomed to use while manipulating our cellphones. I sticked to flat design to try to accomplish a better reading experience on the overall design, the font was Open Sans didn’t test many others, for the production release that can be reconsider, if maybe using a font for numbers and other for text will make readability even better an simpler, coming from data visualisation I tried to give the user the most amount of information I can with out make it for him too difficult to read. I sketch an accordion menu which collapses by touching so the user  can have the last days info and the specif amount of food for the day in the same page.
 
@@ -68,5 +68,3 @@ I had to spent a lot of time debugging at the end I was able to connect everythi
 ### FUTURE
 Type 1 Diabetics is a very complicated disease there are some advances to find a whole cure and a lot of promises studies have been conducted during the pass 20 years. In the 1980s, insulin pumps came on the market. The setup involves a tiny catheter injected under the skin (it’s replaced every three days) to deliver insulin. They were more convenient than syringes, but they were far from automatic, requiring users (or their parents) to do frequent blood sticks and calculations to decide how much insulin to dispense. since then we haven’t make any new real break through  but still there is nothing in the market to cure the humanity of it, with all these technology around, what more likely will happen first is the commercial production of a full automated pancreas, there are non commercial possibilities now and if you’re tech savvy and don’t care to risk it a little with your own body, you can try to make it on your own, all those new products are going to need a lot of design help so people can handle it better and don’t feel like a strange cyborg in the meantime we’ll see how it goes if I completely publish the app to the stores. 
 
-## Keywords
-Diabetes, apps, insulin, experience repetition.
