@@ -72,3 +72,15 @@ img.center-image {
   text-align: center;
   display: block;
 }
+
+.scroll-top {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  background-color: #0085ff;
+  color: #fff !important;
+  text-align: center;
+}
