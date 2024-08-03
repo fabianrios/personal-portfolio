@@ -1,6 +1,13 @@
 export const YearDate = ({year}) => {
   const [month, day, y] = year.split('-');
-  const now = new Date().getFullYear();
-  const birth = new Date(+y, +month - 1, +day).getFullYear();
-  return now - birth || null;
+  const birthDate = new Date(+y, +month - 1, +day);
+  const now = new Date();
+  
+  let age = now.getFullYear() - birthDate.getFullYear();
+  
+  if (now < new Date(now.getFullYear(), birthDate.getMonth(), birthDate.getDate())) {
+    age--;
+  }
+  
+  return age || null;
 }
