@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'personal portfolio fabian rios',
-    description: 'basic info, blog and images from fabianrios',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    title: 'personal portfolio Fabián Ríos',
+    description: 'Basic info, blog and images from Fabián Ríos independent software developer',
+    image: 'https://fabianrios.s3.us-west-2.amazonaws.com/website-portfolio.jpg'
   }
 
   return (
