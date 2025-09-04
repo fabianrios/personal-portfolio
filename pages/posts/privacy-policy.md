@@ -1,6 +1,14 @@
+---
+title: Privacy Policy
+date: 2025/09/05
+description: Privacy policy for my personal website and iOS apps
+tag: privacy, policy, data protection, no data collection, apps, website
+author: You
+---
+
 # Privacy Policy
 
-**Effective date:** \[Month Day, Year]
+**Effective date:** June 27, 2024
 
 **Applies to:**
 
@@ -9,13 +17,11 @@
 * **iOS App 2:** Onomationary
 * Collectively, these are referred to as the “Services.”
 
----
 
 ## Summary
 
 We do **not** collect, track, store, share, sell, or otherwise process any personal data from users of the Services. We do not use analytics, advertising technologies, SDKs, or profiling tools.
 
----
 
 ## Data We Do Not Collect
 
@@ -32,7 +38,6 @@ We do not collect any of the following from you:
 
 Because we do not collect data, we do not sell, rent, share, or disclose any personal data to third parties.
 
----
 
 ## Third‑Party Services
 
