@@ -88,5 +88,3 @@ If we change this Privacy Policy, we will post the updated version at this URL a
 * **Website:** We do not set cookies, use analytics, or embed third‑party trackers. If you later enable any hosting logs, analytics, or embeds that collect data, you must update this Policy to reflect that.
 
 ---
-
-*This Privacy Policy is intended to be simple and transparent. It does not constitute legal advice.*
