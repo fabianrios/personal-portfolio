@@ -1,5 +1,5 @@
 ---
-title: Trolley Game Support
+title: Trolley Game
 date: 2025/09/05
 description: Support information for the Trolley Game app
 tag: ethics, philosophy, game, app, moral reasoning, trolley problem
@@ -13,7 +13,7 @@ author: You
 
 ## Overview
 
-Trolley Game is an interactive thought experiment app that presents ethical dilemmas through the classic "trolley problem" scenario. Players must make quick moral decisions under pressure, exploring themes of utilitarian ethics, moral responsibility, and decision-making.
+Trolley Game is an interactive thought experiment app that presents ethical dilemmas through the classic "trolley problem" scenario. Players must make quick moral decisions under pressure using their own contact list, exploring themes of utilitarian ethics, moral responsibility, and decision-making.
 
 ## What is the Trolley Problem?
 

@@ -6,13 +6,15 @@ tag: tech, education, linguistics, apps, onomatopoeia, language, sound, culture,
 author: You
 ---
 
-# Onomationary - Support Information
+![onomationary](/images/onomationary.png)
 
-![onomationary](/images/onomato.jpg)
+# Onomationary - Support Information
 
 ## Overview
 
 Onomationary is a multilingual educational tool that teaches how different sounds are represented across cultures and languages. The app features onomatopoeia (sound words) from animals, objects, and actions in multiple languages, helping users discover the fascinating differences in how we interpret and express sounds around the world.
+
+![onomationary](/images/onomato.jpg)
 
 ## What is Onomatopoeia?
 
