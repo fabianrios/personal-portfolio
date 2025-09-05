@@ -6,6 +6,8 @@ tag: ethics, philosophy, game, app, moral reasoning, trolley problem
 author: You
 ---
 
+![trolley-game.png](/images/trolley-game.png)
+
 ## 🚋 **Trolley Game**
 ### *A Darkly Funny Moral Dilemma Simulator*
 **Now available on the App Store**
