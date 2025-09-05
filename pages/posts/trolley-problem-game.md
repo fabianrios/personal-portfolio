@@ -1,3 +1,11 @@
+---
+title: Trolley Problem Game
+date: 2025/09/06
+description: A fun and fast-paced mobile app that turns the classic Trolley Problem into an engaging social game, using real contacts to make tough moral decisions.
+tag: ethics, philosophy, game, app, moral reasoning, trolley problem
+author: You
+---
+
 ## 🚋 **Trolley Game**
 ### *A Darkly Funny Moral Dilemma Simulator*
 **Now available on the App Store**

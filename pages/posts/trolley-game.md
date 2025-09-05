@@ -1,10 +1,11 @@
 ---
-title: Trolley Problem Game
+title: Trolley Game
 date: 2025/09/05
-description: A fun and fast-paced mobile app that turns the classic Trolley Problem into an engaging social game, using real contacts to make tough moral decisions.
+description: Support information for the Trolley Game app
 tag: ethics, philosophy, game, app, moral reasoning, trolley problem
 author: You
 ---
+
 
 # Trolley Game - Support Information
 
