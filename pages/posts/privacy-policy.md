@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2025/09/05
+date: 2014/09/05
 description: Privacy policy for my personal website and iOS apps
 tag: privacy, policy, data protection, no data collection, apps, website
 author: You
