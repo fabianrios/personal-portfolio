@@ -6,7 +6,6 @@ tag: privacy, policy, data protection, no data collection, apps, website
 author: You
 ---
 
-# Privacy Policy
 
 **Effective date:** June 27, 2024
 

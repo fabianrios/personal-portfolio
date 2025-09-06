@@ -2,7 +2,7 @@
 title: Tech sociology - a German note.
 date: 2016/8/2
 description: a text about everyday devices in a new country.
-tag: tech
+tag: tech, apps, sociology, germany, internet, mobile, UX
 author: Me
 ---
 

@@ -7,7 +7,7 @@ author: You
 ---
 
 
-# Trolley Game - Support Information
+## Trolley Game - Support Information
 
 ![trolley](/images/trolley.jpg)
 

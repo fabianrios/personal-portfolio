@@ -1,8 +1,9 @@
 // app/[[...mdxPath]]/page.tsx
+import { PostHeader } from '../../components/PostHeader'
 import { importPage } from 'nextra/pages'
 import { getPageMap } from 'nextra/page-map'
 import { notFound } from 'next/navigation'
-import { PostHeader } from '../../components/PostHeader'
+import type { PageMapItem, MdxFile, Folder, FrontMatter } from 'nextra'
 
 export default async function Page({ params }: { params: Promise<{ mdxPath?: string[] }> }) {
     const resolvedParams = await params
@@ -29,16 +30,19 @@ export default async function Page({ params }: { params: Promise<{ mdxPath?: str
 
     // Check if this is an individual post and get metadata server-side
     const isIndividualPost = mdxPath.length > 0 && mdxPath[0] === 'posts' && mdxPath.length > 1
-    let postMeta = null
+    let postMeta: FrontMatter | null = null
 
     if (isIndividualPost) {
         const pageMap = await getPageMap()
-        const postsSection = pageMap.find(item => item.name === 'posts')
+        const postsSection = pageMap.find((item: PageMapItem) => {
+            return 'name' in item && item.name === 'posts'
+        }) as Folder<MdxFile>
+
         const slug = mdxPath[1]
 
         if (postsSection?.children) {
-            const post = postsSection.children.find(child => child.name === slug)
-            postMeta = post?.frontMatter
+            const post = postsSection.children.find((child: MdxFile) => child.name === slug)
+            postMeta = post?.frontMatter || null
         }
     }
 
