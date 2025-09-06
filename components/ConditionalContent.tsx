@@ -2,10 +2,12 @@
 'use client'
 import { Navbar, ThemeSwitch } from 'nextra-theme-blog'
 import { usePathname } from 'next/navigation'
+import { ScrollToTop } from './ScrollToTop'
 
 export function ConditionalContent({ pageMap, children }) {
     const pathname = usePathname()
     const isIndividualPost = pathname.startsWith('/posts/') && pathname !== '/posts'
+    const showScrollToTop = pathname === '/posts' || pathname === '/projects' || isIndividualPost
 
     return (
         <>
@@ -15,6 +17,7 @@ export function ConditionalContent({ pageMap, children }) {
                 </Navbar>
             )}
             {children}
+            {showScrollToTop && <ScrollToTop />}
         </>
     )
 }
