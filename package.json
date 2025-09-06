@@ -2,18 +2,17 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "dev": "next",
-    "build": "node ./scripts/gen-rss.js && next build",
+    "dev": "next --turbopack",
+    "build": "next build",
+    "postbuild": "pagefind --site .next/server/app --output-path public/_pagefind",
     "start": "next start"
   },
   "dependencies": {
-    "gray-matter": "^4.0.2",
     "next": "^15.5.2",
-    "nextra": "^2.0.0-beta.14",
-    "nextra-theme-blog": "^2.0.0-beta.14",
+    "nextra": "^4.4.0",
+    "nextra-theme-blog": "^4.4.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "rss": "^1.2.2"
+    "react-dom": "^18.3.1"
   },
   "prettier": {
     "arrowParens": "always",
@@ -21,5 +20,12 @@
     "tabWidth": 2,
     "trailingComma": "none",
     "semi": false
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "24.3.1",
+    "@types/react": "19.1.12",
+    "pagefind": "^1.4.0",
+    "typescript": "5.9.2"
   }
 }

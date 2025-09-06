@@ -84,3 +84,83 @@ img.center-image {
   color: #fff !important;
   text-align: center;
 }
+
+.posts-list {
+  margin: 20px 0;
+}
+
+.post-item {
+  margin-bottom: 40px;
+}
+
+.post-title {
+  margin: 0 0 8px 0;
+}
+
+.project-list li a {
+  color: #0085ff;
+}
+
+.post-link {
+  color: #0085ff;
+  text-decoration: none;
+}
+
+.post-tags {
+  margin-top: 10px;
+}
+
+.post-tag {
+  display: inline-block;
+  color: #0070f3;
+  text-decoration: underline;
+  margin-right: 8px;
+  font-size: 14px;
+}
+
+.post-tag:hover {
+  text-decoration: none;
+}
+
+.post-description {
+  color: #666;
+  margin: 8px 0;
+}
+
+.read-more-link {
+  color: #0085ff;
+  text-decoration: none;
+}
+
+.post-date {
+  color: #999;
+  font-size: 14px;
+  margin: 4px 0;
+}
+
+.tag-header {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.tag-header h1 {
+  margin: 10px 0;
+  font-size: 2rem;
+}
+
+.tag-header p {
+  color: #666;
+  margin: 0;
+}
+
+.no-posts {
+  text-align: center;
+  padding: 40px 0;
+  color: #666;
+}
+
+.no-posts a {
+  color: #0070f3;
+  text-decoration: none;
+}

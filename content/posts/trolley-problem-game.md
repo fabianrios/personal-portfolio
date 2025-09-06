@@ -6,10 +6,10 @@ tag: ethics, philosophy, game, app, moral reasoning, trolley problem
 author: You
 ---
 
+### *A Darkly Funny Moral Dilemma Simulator*
+
 ![trolley-game.png](/images/trolley-game.png)
 
-## 🚋 **Trolley Game**
-### *A Darkly Funny Moral Dilemma Simulator*
 **Now available on the App Store**
 
 **Trolley Game** is a fast-paced, decision-making mobile game that takes the famous ethical dilemma—known as the Trolley Problem—and turns it into a hilarious and engaging game. Challenge your friends, family, or colleagues to make life-or-death decisions for each other in a dramatic and funny way.
@@ -26,16 +26,16 @@ It’s a fun, fast, and emotionally charged game where you control the fate of t
 
 ### 👥 **Key Features**
 
-- **Real People, Real Choices**  
+- **Real People, Real Choices**
   Select 3–6 people from your phone’s contact list to be part of each dilemma. The people you know become the participants in the game, making the stakes feel personal and often hilarious.
 
-- **Moral Decisions, Fast**  
+- **Moral Decisions, Fast**
   You have seconds to decide who will live and who will face the trolley. Every decision impacts who survives and who gets eliminated.
 
-- **Dramatic Results**  
+- **Dramatic Results**
   At the end of each round, see who survived and who was sacrificed. The game keeps track of who gets saved most often—adding replay value as you challenge others to play.
 
-- **Quick & Replayable**  
+- **Quick & Replayable**
   Each round is designed to take less than a minute, making it perfect for quick social interactions and parties.
 
 ---
@@ -66,7 +66,7 @@ As the creator of **Trolley Game**, I was responsible for:
 - 🚀 **Launch Date:** September 2025
 - 🔗 **[App Store Link – Coming Soon]**
 
-![Icon](/images/Icon-iOS-Default-1024x1024%402x.png)
+![Icon](/images/icon_trolley.png)
 
 ---
 
