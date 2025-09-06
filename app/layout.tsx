@@ -59,7 +59,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
             <ConditionalContent pageMap={pageMap}>
                 {children}
             </ConditionalContent>
-            <Footer>© 2025 Fabián Ríos</Footer>
+            <Footer>© {new Date().getFullYear()} Fabián Ríos</Footer>
         </Layout>
         </body>
         </html>
