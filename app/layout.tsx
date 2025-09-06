@@ -1,6 +1,6 @@
 // app/layout.tsx
-import { Footer, Layout, Navbar, ThemeSwitch } from 'nextra-theme-blog'
-import { Head } from 'nextra/components'
+import { Footer, Layout } from 'nextra-theme-blog'
+import { Head, Banner } from 'nextra/components'
 import { getPageMap } from 'nextra/page-map'
 import { ConditionalContent } from '../components/ConditionalContent'
 import 'nextra-theme-blog/style.css'
@@ -50,6 +50,11 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         <html lang="en" suppressHydrationWarning>
         <Head />
         <body>
+        <Banner storageKey="2.0-release">
+            <a href="/projects#onomationary">
+                🎉 new iOS app project. Read more →
+            </a>
+        </Banner>
         <Layout>
             <ConditionalContent pageMap={pageMap}>
                 {children}

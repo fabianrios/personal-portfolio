@@ -9,7 +9,7 @@ date: 2024-19-11
 Here are some of my art related projects and exhibitions.
 
 <ul className={"project-list"}>
- <li><a href="#the-onomatopoeia-soundbook">The Onomatopoeia Soundbook</a> <small>2025</small></li>
+ <li><a href="#onomationary">Onomationary</a> <small>2025</small></li>
  <li><a href="#art-and-political-violence-in-colombia">Art and political violence in Colombia</a> <small>2024</small></li>
  <li><a href="#trasmiobbi">TrasmiObbi</a> <small>2023</small></li>
  <li><a href="#colombian-internal-conflict-timeline">Colombian internal conflict timeline</a> <small>2022</small></li>
@@ -23,17 +23,22 @@ Here are some of my art related projects and exhibitions.
 </ul>
 
 import Image from 'next/image'
+import { Bleed } from 'nextra/components'
 
-## The Onomatopoeia Soundbook
+## Onomationary
+### The Onomatopoeia Soundbook
 2025
 
 I got the idea for this project while thinking about what it’s like to navigate different languages as an immigrant. Sounds are universal, but each culture writes them differently.
 This concept explores that playful space — using emojis and recordings to show how animals, objects, and actions “sound” across six languages. A simple way to connect learning, play, and identity.
 
+![onomationary](/images/onomationary.png)
+
 **Onomationary** is a digital soundbook (iOS, swift) that explores the onomatopoeias of six different languages: English, Spanish, French, German, Ukranian, and Japanese. It features a collection of sounds associated with various animals, objects, and actions, each represented by an emoji. Users can click on an emoji to hear the corresponding sound in each language, providing an interactive way to experience linguistic diversity.
 
-![onomationary](/images/onomationary.png)
-<small className="text-center">Screenshots fullscreen</small>
+<a href={'/posts/onomationary'} className="read-more-link">
+    Read More →
+</a>
 
 ## Art and political violence in Colombia
 2024
@@ -183,4 +188,6 @@ Video art participant in the IV itinerary video Bienal organice for the IDB (Int
 
 ![nocturne](http://s3-us-west-2.amazonaws.com/fabianrios/proyectos/theimages/000/000/021/large/nocturne2.jpg?1454816973)
 
-<iframe src="https://player.vimeo.com/video/7472832?title=0&amp;byline=0&amp;portrait=0" width="100%" height="480" frameBorder="0" webkitallowfullscreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
+<Bleed full>
+    <iframe src="https://player.vimeo.com/video/7472832?title=0&amp;byline=0&amp;portrait=0" width="100%" height="480" frameBorder="0" webkitallowfullscreen="" mozallowfullscreen="" allowFullScreen=""></iframe>
+</Bleed>
