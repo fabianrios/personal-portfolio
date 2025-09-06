@@ -1,6 +1,17 @@
 // components/ProjectShowcase.tsx
 import { getPageMap } from 'nextra/page-map'
-import type { PageMapItem, MdxFile, Folder, MetaJsonFile } from 'nextra'
+import type { PageMapItem, MdxFile, Folder } from 'nextra'
+
+interface PostWithMeta {
+    slug: string
+    route: string
+    href: string
+    title?: string
+    date?: string
+    description?: string
+    tag?: string
+    [key: string]: any
+}
 
 export async function ProjectShowcase({ folder = 'posts' }) {
     const pageMap = await getPageMap()
@@ -15,20 +26,24 @@ export async function ProjectShowcase({ folder = 'posts' }) {
     }
 
     // Extract posts from the children array, excluding the index page
-    const posts = postsSection.children
+    const posts: PostWithMeta[] = postsSection.children
         .filter((child: MdxFile) => child.name !== 'index' && child.frontMatter)
-        .map((child: MdxFile) => ({
+        .map((child: MdxFile): PostWithMeta => ({
             slug: child.name,
             route: child.route,
-            ...child.frontMatter,
-            href: child.route
+            href: child.route,
+            title: child.frontMatter?.title || child.name,
+            date: child.frontMatter?.date,
+            description: child.frontMatter?.description,
+            tag: child.frontMatter?.tag,
+            ...child.frontMatter
         }))
 
     // Sort by date (newest first)
     posts.sort((a, b) => {
         const dateA = new Date(a.date || '1970-01-01')
         const dateB = new Date(b.date || '1970-01-01')
-        return dateB - dateA
+        return dateB.getTime() - dateA.getTime()
     })
 
     return (
@@ -42,20 +57,22 @@ export async function ProjectShowcase({ folder = 'posts' }) {
                     </h3>
 
                     <p className="post-description">
-                        {post.description} {' '}
+                        {post.description || 'No description available'} {' '}
                         <a href={post.href} className="read-more-link">
                             Read More →
                         </a>
                     </p>
 
-                    <p className="post-date">
-                        {new Date(post.date).toLocaleDateString('en-US', {
-                            weekday: 'short',
-                            month: 'short',
-                            day: '2-digit',
-                            year: 'numeric'
-                        })}
-                    </p>
+                    {post.date && (
+                        <p className="post-date">
+                            {new Date(post.date).toLocaleDateString('en-US', {
+                                weekday: 'short',
+                                month: 'short',
+                                day: '2-digit',
+                                year: 'numeric'
+                            })}
+                        </p>
+                    )}
                 </div>
             ))}
         </div>
