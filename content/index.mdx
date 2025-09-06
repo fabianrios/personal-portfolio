@@ -5,55 +5,42 @@ date: 2022-08-02
 ---
 
 import { YearDate } from '../components/yearDate'
-import Image from 'next/image'
+import { Cards, Summary } from 'nextra/components'
+import { RandomImage } from '../components/RandomImage'
 
-# Fabián Ríos
+# Hi, I'm Fabián 👋
 
-Hey, I'm a Media Artist and Senior Web Developer. I graduated as a Media Artist and I got involved in web development from design to coding and crafting elegant user center websites and applications for about <YearDate year="01-01-2013" /> years now.
+<RandomImage />
 
-I live with my beautiful wife [Cristina](https://www.instagram.com/crisescobarderios/), my children Samuel ({<YearDate year="11-17-2013" />} years) - Gabriel (<YearDate year="06-09-2015" /> years), Simon (<YearDate year="10-17-2019" />  years) and my dog Jet in Düsseldorf, Germany
+I’m a Media Artist and Senior Web Developer. Since 2013, I’ve been combining design and engineering to craft user-centered websites and applications that balance aesthetics with performance.
 
-{(function () {
-  const guess = [
-    {
-      img: '/images/cube.png',
-      width: 609,
-      height: 628
-    },
-    {
-      img: '/images/day-dinner.png',
-      width: 614,
-      height: 769
-    },
-    {
-      img: '/images/night.png',
-      width: 640,
-      height: 457
-    },
-    {
-      img: '/images/day.png',
-      width: 617,
-      height: 550
-    },
-    {
-      img: '/images/uni.png',
-      width: 640,
-      height: 395
-    }];
-  const rand = Math.floor(Math.random() * ((guess.length-1) + 1));
-  return <Image
-  src={guess[rand].img}
-  alt="Photo"
-  width={guess[rand].width}
-  height={guess[rand].height}
-  priority
-  className="center-image"
-  />
-})()}
+My work sits at the intersection of **technology, design, and interaction**, with a focus on building scalable, elegant, and meaningful digital experiences.
+
+## Currently
+
+- 🏠 Based in **Düsseldorf, Germany**
+- 💼 Leading and developing modern web applications
+- 🎨 Exploring interactive media and creative technology
+
+Outside of work, I live in Düsseldorf with my wonderful wife Cristina, our three boys —Samuel (<YearDate year="11-17-2013" />), Gabriel (<YearDate year="06-09-2015" />), Simon (<YearDate year="10-17-2019" />)— and our loyal dog Jet.
 
 
+## Quick Links
 
-- Twitter [@fabianriosarias](https://twitter.com/fabianriosarias)
-- GitHub [@fabianrios](https://github.com/fabianrios)
-- Instagram [@fabian_rios](https://instagram.com/fabian_rios)
-- Email hi@fabianrios.co
+<Cards>
+    <Cards.Card title="View My Work" href="/projects" />
+    <Cards.Card title="Read My Post" href="/posts" />
+    <Cards.Card title="Get In Touch" href="mailto:hi@fabianrios.co" />
+</Cards>
+
+## Skills & Interests
+
+
+- **Development**: Angular, React, Django, Next.js, TypeScript, Node.js, iOS development
+- **Design**: UI/UX, Interactive Design, Prototyping
+- **Art**: Digital Media, Interactive Installations
+- **Other**: Data Visualization, Creative Coding
+
+---
+
+*Want to work together? Drop me a line at [hi@fabianrios.co](mailto:hi@fabianrios.co)*

@@ -206,3 +206,45 @@ img.center-image {
   color: #0070f3;
   text-decoration: none;
 }
+
+/* Add to styles/main.css */
+.random-image-container {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.random-image {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  height: auto;
+}
+
+.social-links {
+  margin-top: 3rem;
+  padding: 2rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.social-links ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.social-links a {
+  color: #0070f3;
+  text-decoration: none;
+  padding: 0.5rem;
+  display: block;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+
+.social-links a:hover {
+  background-color: rgba(0, 112, 243, 0.1);
+}
