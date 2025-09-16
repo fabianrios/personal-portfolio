@@ -12,6 +12,9 @@ author: You
 
 **Now available on the App Store**
 
+[<img src="/images/app-store-small.png">](https://apps.apple.com/de/app/trolley-problem-choices-game/id6751812614?l=en-GB)
+
+
 **Trolley Game** is a fast-paced, decision-making mobile game that takes the famous ethical dilemma—known as the Trolley Problem—and turns it into a hilarious and engaging game. Challenge your friends, family, or colleagues to make life-or-death decisions for each other in a dramatic and funny way.
 
 ---
@@ -64,9 +67,11 @@ As the creator of **Trolley Game**, I was responsible for:
 
 - 🛒 **Platform:** iOS (App Store)
 - 🚀 **Launch Date:** September 2025
-- 🔗 **[App Store Link – Coming Soon]**
+- 🔗 [App store link](https://apps.apple.com/de/app/trolley-problem-choices-game/id6751812614?l=en-GB)
 
 ![Icon](/images/icon_trolley.png)
+
+[<img src="/images/app-store-small.png">](https://apps.apple.com/de/app/trolley-problem-choices-game/id6751812614?l=en-GB)
 
 ---
 

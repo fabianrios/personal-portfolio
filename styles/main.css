@@ -143,6 +143,23 @@ img.center-image {
   color: #0085ff;
 }
 
+.app-store {
+  width: 200px;
+  padding: 5px;
+  background: #fff;
+  display: block;
+  border-radius: 12px;
+}
+
+.app-store p {
+  margin: 0;
+  padding: 0;
+}
+
+.app-store img {
+  height: 100%;
+}
+
 .post-link {
   color: #0085ff;
   text-decoration: none;

@@ -11,6 +11,8 @@ author: You
 
 ![trolley](/images/trolley.jpg)
 
+[<img src="/images/app-store-small.png">](https://apps.apple.com/de/app/trolley-problem-choices-game/id6751812614?l=en-GB)
+
 ## Overview
 
 Trolley Game is an interactive thought experiment app that presents ethical dilemmas through the classic "trolley problem" scenario. Players must make quick moral decisions under pressure using their own contact list, exploring themes of utilitarian ethics, moral responsibility, and decision-making.
@@ -131,5 +133,4 @@ Current features include:
 
 ## Acknowledgments
 
-This app is based on the classic trolley problem thought experiment by Philippa Foot and further developed by Judith Jarvis Thomson. It serves as an interactive educational tool for exploring moral philosophy and ethical decision-making.
-
+This app is based on the classic trolley problem thought experiment by Philippa Foot and further developed by Judith Jarvis Thomson. It serves as an interactive educational tool for exploring moral philosophy and ethical decision-making. 
