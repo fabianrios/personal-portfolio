@@ -6,7 +6,7 @@ tag: ethics, philosophy, game, app, moral reasoning, trolley problem
 author: You
 ---
 
-### *A Darkly Funny Moral Dilemma Simulator*
+### *A Wickedly Funny Moral Dilemma Simulator*
 
 ![trolley-game.png](/images/shot-trolley-2.png)
 
