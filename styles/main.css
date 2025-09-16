@@ -151,6 +151,10 @@ img.center-image {
   border-radius: 15px;
 }
 
+.app-store-img {
+  width: 180px;
+}
+
 .app-store p {
   margin: 0;
   padding: 0;
