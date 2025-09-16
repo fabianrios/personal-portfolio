@@ -8,7 +8,7 @@ author: You
 
 ### *A Darkly Funny Moral Dilemma Simulator*
 
-![trolley-game.png](/images/trolley-game.png)
+![trolley-game.png](/images/shot-trolley-2.png)
 
 **Now available on the App Store**
 
