@@ -51,7 +51,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         <Head />
         <body>
         <Banner storageKey="2.0-release">
-            <a href="/projects#onomationary">
+            <a href="/projects#trolley-game">
                 🎉 new iOS app projects. Read more →
             </a>
         </Banner>
