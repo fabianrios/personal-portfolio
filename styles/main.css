@@ -186,7 +186,6 @@ img.center-image {
 }
 
 .post-description {
-  color: #666;
   margin: 8px 0;
 }
 
@@ -213,14 +212,12 @@ img.center-image {
 }
 
 .tag-header p {
-  color: #666;
   margin: 0;
 }
 
 .no-posts {
   text-align: center;
   padding: 40px 0;
-  color: #666;
 }
 
 .no-posts a {
