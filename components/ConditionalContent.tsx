@@ -14,7 +14,7 @@ export function ConditionalContent({ pageMap, children }) {
         <>
             {!isIndividualPost && (
                 <Navbar pageMap={pageMap}>
-                    <Search />
+                    <Search placeholder={"Type for search..."} />
                     <ThemeSwitch />
                 </Navbar>
             )}
