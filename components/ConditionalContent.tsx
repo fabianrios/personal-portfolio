@@ -1,6 +1,7 @@
 // components/ConditionalContent.tsx
 'use client'
 import { Navbar, ThemeSwitch } from 'nextra-theme-blog'
+import { Search } from 'nextra/components'
 import { usePathname } from 'next/navigation'
 import { ScrollToTop } from './ScrollToTop'
 
@@ -13,6 +14,7 @@ export function ConditionalContent({ pageMap, children }) {
         <>
             {!isIndividualPost && (
                 <Navbar pageMap={pageMap}>
+                    <Search />
                     <ThemeSwitch />
                 </Navbar>
             )}
