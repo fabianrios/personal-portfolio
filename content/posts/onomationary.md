@@ -8,6 +8,8 @@ author: You
 
 ![onomationary](/images/onomationary.png)
 
+[<img class="app-store-img" src="/images/app-store-small.png">](https://apps.apple.com/us/app/onomationary/id6751577592)
+
 # Onomationary - Support Information
 
 ## Overview
@@ -15,8 +17,6 @@ author: You
 Onomationary is a multilingual educational tool that teaches how different sounds are represented across cultures and languages. The app features onomatopoeia (sound words) from animals, objects, and actions in multiple languages, helping users discover the fascinating differences in how we interpret and express sounds around the world.
 
 ![onomationary](/images/onomato.jpg)
-
-[<img class="app-store-img" src="/images/app-store-small.png">](https://apps.apple.com/us/app/onomationary/id6751577592)
 
 ## What is Onomatopoeia?
 
