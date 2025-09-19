@@ -16,6 +16,8 @@ Onomationary is a multilingual educational tool that teaches how different sound
 
 ![onomationary](/images/onomato.jpg)
 
+[<img class="app-store-img" src="/images/app-store-small.png">](https://apps.apple.com/us/app/onomationary/id6751577592)
+
 ## What is Onomatopoeia?
 
 Onomatopoeia refers to words that phonetically imitate the sound they represent. While we might think sounds are universal, different cultures hear and express them quite differently. For example, a dog's bark is "woof" in English, "guau" in Spanish, "wuff" in German, and "wan wan" in Japanese.
